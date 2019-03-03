@@ -268,3 +268,11 @@ footer{
 	bottom: 20px;
 	left: 0px;
 }
+
+#wordguessgame:hover {
+	color: yellow;
+}
+
+#wordguessgame:visited {
+	color: white;
+}
