@@ -276,3 +276,11 @@ footer{
 #wordguessgame:visited {
 	color: white;
 }
+
+#crystalscollectorgame:hover {
+	color: yellow;
+}
+
+#crystalscollectorgame:visited {
+	color: white;
+}
