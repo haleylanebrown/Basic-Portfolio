@@ -231,8 +231,8 @@ footer{
 }
 
 .portfolio-img{
-
 	height: 200px;
+	width: 266.5px;
 }
 
 #portfoliotitle {
@@ -283,9 +283,4 @@ footer{
 
 #crystalscollectorgame:visited {
 	color: white;
-}
-
-#travel {
-	height: 200px;
-	width: 266.5px;
 }
